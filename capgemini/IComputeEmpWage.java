@@ -1,3 +1,4 @@
+
 package capgemini;
 
 public interface IComputeEmpWage {
